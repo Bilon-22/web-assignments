@@ -7,4 +7,4 @@
 https://github.com/Bilon-22/web-assignments/blob/main/index.html
 
 ## Commit Hash
-PASTE_YOUR_HASH_HERE
+3e110bc
